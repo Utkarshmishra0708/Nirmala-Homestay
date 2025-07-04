@@ -21,8 +21,11 @@
     "parcel": "^2.15.4"
   },
   "dependencies": {
+    "parcel-plugin-static-files-copy": "^2.6.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
-  "browserlist" : ["last 2 versions"]
+  "browserlist": [
+    "last 2 versions"
+  ]
 }
